@@ -1,0 +1,17 @@
+.not-foud {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(214, 212, 212, 0.74);
+  
+}
+h1 {
+  color: black;
+}
+
+h3 {
+  color: rgba(24, 17, 17, 0.849);
+  border-bottom: 1px solid #000;
+  box-shadow: 0 1px, 10px rgba(128, 128, 128, 0.719);
+}
+
